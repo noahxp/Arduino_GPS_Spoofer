@@ -14,5 +14,5 @@ Todos estos productos están liberados mediante [Creative Commons Attribution-Sh
 ---
 
 reference : 
-https://www.youtube.com/watch?v=VqLSKPYKeXU
-https://www.youtube.com/watch?v=PYIEex4NIyI
+- https://www.youtube.com/watch?v=VqLSKPYKeXU
+- https://www.youtube.com/watch?v=PYIEex4NIyI
